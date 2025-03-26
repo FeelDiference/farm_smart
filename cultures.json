@@ -1,0 +1,398 @@
+{
+  "romaine": {
+    "displayName": "Салат Ромэйн",
+    "ph": "5.5–6.5",
+    "daysToHarvest": 30,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Прорастание",
+        "fromDay": 0,
+        "toDay": 6,
+        "ec": "0.4–0.6"
+      },
+      {
+        "name": "Вегетация",
+        "fromDay": 7,
+        "toDay": 14,
+        "ec": "0.8–1.2"
+      },
+      {
+        "name": "Рост",
+        "fromDay": 15,
+        "toDay": 25,
+        "ec": "1.2–1.8"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 26,
+        "toDay": 35,
+        "ec": "1.0–1.4"
+      }
+    ]
+  },
+  "dill": {
+    "displayName": "Укроп",
+    "ph": "5.5–6.5",
+    "daysToHarvest": 40,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Прорастание",
+        "fromDay": 0,
+        "toDay": 6,
+        "ec": "0.5–0.7"
+      },
+      {
+        "name": "Рост",
+        "fromDay": 7,
+        "toDay": 25,
+        "ec": "1.0–1.4"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 26,
+        "toDay": 40,
+        "ec": "1.2–1.6"
+      }
+    ]
+  },
+  "basil": {
+    "displayName": "Базилик",
+    "ph": "5.5–6.5",
+    "daysToHarvest": 60,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Прорастание",
+        "fromDay": 0,
+        "toDay": 7,
+        "ec": "0.5–0.7"
+      },
+      {
+        "name": "Вегетация",
+        "fromDay": 8,
+        "toDay": 30,
+        "ec": "1.0–1.6"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 31,
+        "toDay": 60,
+        "ec": "1.4–1.8"
+      }
+    ]
+  },
+  "rosemary": {
+    "displayName": "Розмарин",
+    "ph": "5.5–6.0",
+    "daysToHarvest": 75,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Укоренение",
+        "fromDay": 0,
+        "toDay": 14,
+        "ec": "0.4–0.6"
+      },
+      {
+        "name": "Рост",
+        "fromDay": 15,
+        "toDay": 60,
+        "ec": "1.0–1.4"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 61,
+        "toDay": 75,
+        "ec": "1.4–1.6"
+      }
+    ]
+  },
+  "thyme": {
+    "displayName": "Тимьян",
+    "ph": "5.5–7.0",
+    "daysToHarvest": 70,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Прорастание",
+        "fromDay": 0,
+        "toDay": 10,
+        "ec": "0.4–0.6"
+      },
+      {
+        "name": "Рост",
+        "fromDay": 11,
+        "toDay": 55,
+        "ec": "1.0–1.5"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 56,
+        "toDay": 70,
+        "ec": "1.3–1.6"
+      }
+    ]
+  },
+  "spinach": {
+    "displayName": "Шпинат",
+    "ph": "6.0–7.0",
+    "daysToHarvest": 35,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Начало",
+        "fromDay": 0,
+        "toDay": 11,
+        "ec": "0.5–0.8"
+      },
+      {
+        "name": "Рост",
+        "fromDay": 12,
+        "toDay": 23,
+        "ec": "1.0–1.4"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 24,
+        "toDay": 35,
+        "ec": "1.2–1.6"
+      }
+    ]
+  },
+  "parsley": {
+    "displayName": "Петрушка",
+    "ph": "5.5–6.0",
+    "daysToHarvest": 60,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Начало",
+        "fromDay": 0,
+        "toDay": 20,
+        "ec": "0.5–0.8"
+      },
+      {
+        "name": "Рост",
+        "fromDay": 21,
+        "toDay": 40,
+        "ec": "1.0–1.4"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 41,
+        "toDay": 60,
+        "ec": "1.2–1.6"
+      }
+    ]
+  },
+  "mint": {
+    "displayName": "Мята",
+    "ph": "5.5–6.0",
+    "daysToHarvest": 60,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Начало",
+        "fromDay": 0,
+        "toDay": 20,
+        "ec": "0.5–0.8"
+      },
+      {
+        "name": "Рост",
+        "fromDay": 21,
+        "toDay": 40,
+        "ec": "1.0–1.4"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 41,
+        "toDay": 60,
+        "ec": "1.2–1.6"
+      }
+    ]
+  },
+  "rukola": {
+    "displayName": "Руккола",
+    "ph": "6.0–7.0",
+    "daysToHarvest": 30,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Начало",
+        "fromDay": 0,
+        "toDay": 10,
+        "ec": "0.5–0.8"
+      },
+      {
+        "name": "Рост",
+        "fromDay": 11,
+        "toDay": 20,
+        "ec": "1.0–1.4"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 21,
+        "toDay": 30,
+        "ec": "1.2–1.6"
+      }
+    ]
+  },
+  "mustard": {
+    "displayName": "Горчица листовая",
+    "ph": "6.0–7.0",
+    "daysToHarvest": 30,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Начало",
+        "fromDay": 0,
+        "toDay": 10,
+        "ec": "0.5–0.8"
+      },
+      {
+        "name": "Рост",
+        "fromDay": 11,
+        "toDay": 20,
+        "ec": "1.0–1.4"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 21,
+        "toDay": 30,
+        "ec": "1.2–1.6"
+      }
+    ]
+  },
+  "chard": {
+    "displayName": "Мангольд",
+    "ph": "6.0–6.5",
+    "daysToHarvest": 50,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Начало",
+        "fromDay": 0,
+        "toDay": 16,
+        "ec": "0.5–0.8"
+      },
+      {
+        "name": "Рост",
+        "fromDay": 17,
+        "toDay": 33,
+        "ec": "1.0–1.4"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 34,
+        "toDay": 50,
+        "ec": "1.2–1.6"
+      }
+    ]
+  },
+  "cress": {
+    "displayName": "Кресс-салат",
+    "ph": "6.0–6.5",
+    "daysToHarvest": 20,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Начало",
+        "fromDay": 0,
+        "toDay": 6,
+        "ec": "0.5–0.8"
+      },
+      {
+        "name": "Рост",
+        "fromDay": 7,
+        "toDay": 13,
+        "ec": "1.0–1.4"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 14,
+        "toDay": 20,
+        "ec": "1.2–1.6"
+      }
+    ]
+  },
+  "tatsoi": {
+    "displayName": "Татсой",
+    "ph": "6.0–7.0",
+    "daysToHarvest": 30,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Начало",
+        "fromDay": 0,
+        "toDay": 10,
+        "ec": "0.5–0.8"
+      },
+      {
+        "name": "Рост",
+        "fromDay": 11,
+        "toDay": 20,
+        "ec": "1.0–1.4"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 21,
+        "toDay": 30,
+        "ec": "1.2–1.6"
+      }
+    ]
+  },
+  "bokchoy": {
+    "displayName": "Пак-чой",
+    "ph": "6.0–7.0",
+    "daysToHarvest": 30,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Начало",
+        "fromDay": 0,
+        "toDay": 10,
+        "ec": "0.5–0.8"
+      },
+      {
+        "name": "Рост",
+        "fromDay": 11,
+        "toDay": 20,
+        "ec": "1.0–1.4"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 21,
+        "toDay": 30,
+        "ec": "1.2–1.6"
+      }
+    ]
+  },
+  "endive": {
+    "displayName": "Эндивий",
+    "ph": "6.0–6.5",
+    "daysToHarvest": 45,
+    "system": "aeroponics",
+    "stages": [
+      {
+        "name": "Начало",
+        "fromDay": 0,
+        "toDay": 15,
+        "ec": "0.5–0.8"
+      },
+      {
+        "name": "Рост",
+        "fromDay": 16,
+        "toDay": 30,
+        "ec": "1.0–1.4"
+      },
+      {
+        "name": "Финиш",
+        "fromDay": 31,
+        "toDay": 45,
+        "ec": "1.2–1.6"
+      }
+    ]
+  }
+}
